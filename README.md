@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-06-22 at 21 50 16 (1)](https://user-images.githubusercontent.com/27766375/123013963-fba5a900-d3a3-11eb-9174-2e7707e4141a.jpeg)
 # wallet_ui
 
 A new Flutter project.
